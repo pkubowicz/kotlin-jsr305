@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-jsr305'
+include ':strict'
+include ':warn'
